@@ -1,25 +1,44 @@
-# Bem Vindo ao meu perfil 
 
-* Meu nome é 'Nedir Antonio Castelani Neto' sou Brasileiro e tenho 16 anos.
+
+
+# Oi, me chamo Nedir Castelani.
+
+* Meu nome é **'Nedir Antonio Castelani Neto'** sou Brasileiro e tenho 16 anos (25/08/2008).
 * Estudo no primeiro ano do ensino Medio na rede estadual de ensino.
-* Sou programador de linguagem C e FullSteck.
-* Programo tambem sistemas de robotica e automacao como PLCs Utilizando 'Ladder e BDF', Arduino e controladores PIC.
-
+* Estudo programacao de controladores para automacao e robotica.
+* Linguagens: C, HTML, CSS, JS, Ladder, FBD e Scratch.
+* No tempo livre toco Violao e Viola Caipira.
+* Estudo para fazer faculdade de engenharia.
+* Estou comecando no GitHub, sei bem pouco como usar mas quero aprender logo para eu poder participar de projetos.
 * Meu contato     joaquimpote55@gmail.com
 
 <!--
-**IratedeviationBR/IratedeviationBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Ja reformei diversos aparelhos antigos 
+
+-Vitrola 
+-Amp. e equalizador
+-Radio
+-Multimetro Analogico
+
+# Tambem ja fiz montagem de projetos autorais
+
+-Cronometro de Xadrez feito com arduino
+-Seguidor de Sinais
+-Carregador de Bateria com transformador de micro-ondas
+-Fonte ajustavel com protecao de curto circuito e sobrecorrente (essa me deu trabalho)
+
+# Trabalhos
+
+Ja automatizei varias maquinas com o auxilio de PLCs e Inversores de frequencia 
+
+-Afiadora de facas
+-Transadora de cordas
+-Torno mecanico
+-Serras
+-Martelos de Cravacao de estacas
 
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
