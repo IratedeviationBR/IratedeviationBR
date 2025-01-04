@@ -4,10 +4,10 @@
 # Oi, me chamo Nedir Castelani.
 
 * Meu nome é **'Nedir Antonio Castelani Neto'** sou Brasileiro e tenho 16 anos (25/08/2008).
-* Estudo no primeiro ano do ensino Medio na rede estadual de ensino.
-* Estudo programacao de controladores para automacao e robotica.
+* Estudo na segundo serie do ensino Medio na rede estadual de ensino.
+* Estudo programacao de controladores para automação e robotica.
 * Linguagens: C, HTML, CSS, JS, Ladder, FBD e Scratch.
-* No tempo livre toco Violao e Viola Caipira.
+* No tempo livre toco Instrumentos.
 * Estudo para fazer faculdade de engenharia.
 * Estou comecando no GitHub, sei bem pouco como usar mas quero aprender logo para eu poder participar de projetos.
 * Meu contato     joaquimpote55@gmail.com
